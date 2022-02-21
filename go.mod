@@ -1,3 +1,3 @@
-module github.com/lubiksss/testPackage/v2
+module github.com/lubiksss/testPackage
 
 go 1.17
